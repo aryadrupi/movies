@@ -5,3 +5,8 @@ name : Amaran
 director : Rajkumar
 
 released_year : 2024
+
+2. 
+
+name : Irumughan
+
